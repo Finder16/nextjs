@@ -1,1 +1,1 @@
-# nextjs
+# nextjs 공부
